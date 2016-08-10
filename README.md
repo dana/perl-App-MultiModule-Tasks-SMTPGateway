@@ -1,6 +1,6 @@
 # NAME
 
-App::MultiModule::Tasks::SMTPGateway - Allow message driven e-mail
+App::MultiModule::Tasks::SMTPGateway - Task to allow message driven e-mail
 
 ## message
 
